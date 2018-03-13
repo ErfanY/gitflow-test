@@ -1,3 +1,3 @@
 # gitflow-test
 
-This repo is for testing git flow process
+This repo is for testing git flow process. Git flow is a branching process suggest by Vincent.
